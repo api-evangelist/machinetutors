@@ -33,20 +33,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: Machinetutors
     description: "AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP"
     humanURL: https://www.machinetutors.com/portfolio/MT_api.html
-    baseURL: https://www.machinetutors.com/portfolio/MT_api.html
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://www.machinetutors.com/portfolio/MT_api.html
